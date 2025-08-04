@@ -51,7 +51,7 @@ export const DEFAULT_APP_SETTINGS: AppSettings = {
   baseFontSize: DEFAULT_BASE_FONT_SIZE,
   useCustomApiConfig: false,
   apiKey: null,
-  apiProxyUrl: null,
+  apiProxyUrl: 'https://veerrfntcryn.ap-southeast-1.clawcloudrun.com/proxy/gemini/v1beta',
   language: 'system',
   isStreamingEnabled: DEFAULT_IS_STREAMING_ENABLED,
   transcriptionModelId: DEFAULT_TRANSCRIPTION_MODEL_ID,
