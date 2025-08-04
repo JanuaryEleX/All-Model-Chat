@@ -6,8 +6,8 @@ try {
 }
 
 const CACHE_NAME = 'all-model-chat-cache-v3';
-const API_HOSTS = ['veerrfntcryn.ap-southeast-1.clawcloudrun.com'];
-const TARGET_URL_PREFIX = 'https://veerrfntcryn.ap-southeast-1.clawcloudrun.com/proxy/gemini/v1beta';
+const API_HOSTS = ['generativelanguage.googleapis.com'];
+const TARGET_URL_PREFIX = 'https://generativelanguage.googleapis.com/v1beta';
 const STATIC_APP_SHELL_URLS = ['/', '/index.html', '/favicon.png', '/manifest.json'];
 
 let proxyUrl = null;
